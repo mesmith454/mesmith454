@@ -18,6 +18,6 @@ My name is Megan Smith and I am a junior software developer! After five years wo
 
 ![react-logo-1](https://user-images.githubusercontent.com/71784488/121221832-d1e47200-c83a-11eb-827c-e1ca16a080d3.png =20x20)
 
-
+<img src="https://user-images.githubusercontent.com/71784488/121221832-d1e47200-c83a-11eb-827c-e1ca16a080d3.png" width="20" height="20" />
 
 
