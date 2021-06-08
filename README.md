@@ -1,6 +1,5 @@
 ![Pink and Cyan Witches Modern Occult Greeting  Generic Halloween Twitter Header (1)](https://user-images.githubusercontent.com/71784488/121218597-bcba1400-c837-11eb-9719-73eaa1613f7b.png)
 
-
 ### Hey There! 👋
 
 My name is Megan Smith and I am a junior software developer! After five years working in the optical industry, I took the opportunity during quarantine to pursue a shift to my dream career. My philosophy is that good energy brings good things and every good thing is worth busting toucas for. 
@@ -17,7 +16,7 @@ My name is Megan Smith and I am a junior software developer! After five years wo
     >I would rather be in SPACE; My favorite movie is 'Lo'; I love to make art, learn new things, and discover more about the world around me. 
 
 
-![React Logo](https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png)
+![react-logo-1](https://user-images.githubusercontent.com/71784488/121221832-d1e47200-c83a-11eb-827c-e1ca16a080d3.png)
 
 
 
