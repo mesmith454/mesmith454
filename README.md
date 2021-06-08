@@ -1,4 +1,4 @@
-[logo](https://www.canva.com/design/DAEgz2YQm6M/jvl2nccR0bIy417E99KDEw/view?utm_content=DAEgz2YQm6M&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu "banner")
+![logo](https://www.canva.com/design/DAEgz2YQm6M/jvl2nccR0bIy417E99KDEw/view?utm_content=DAEgz2YQm6M&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu "banner")
 ### Hey There! 👋
 
 - 🔭 I’m currently working on ...
