@@ -19,6 +19,6 @@ My name is Megan Smith and I am a junior software developer! After five years wo
 <img src="https://user-images.githubusercontent.com/71784488/121221832-d1e47200-c83a-11eb-827c-e1ca16a080d3.png" width="20" height="20" />
 <img src="https://user-images.githubusercontent.com/71784488/121222971-e1b08600-c83b-11eb-897c-70c2e03cc9af.png" width="20" height="20" />
 <img src="https://user-images.githubusercontent.com/71784488/121222977-e412e000-c83b-11eb-8ecc-0de24ef2dd5e.png" width="20" height="20" />
-<img src="https://user-images.githubusercontent.com/71784488/121221832-d1e47200-c83a-11eb-827c-e1ca16a080d3.png" width="20" height="20" />
+<img src="https://user-images.githubusercontent.com/71784488/121223436-613e5500-c83c-11eb-9fa7-8a6ae7e09486.png" width="20" height="20" />
 
 
