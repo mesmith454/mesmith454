@@ -3,6 +3,8 @@
 
 ### Hey There! 👋
 
+My name is Megan Smith and I am a junior software developer! After five years working in the optical industry, I took the opportunity during quarantine to pursue a shift to my dream career. My philosophy is that good energy brings good things and every good thing is worth busting toucas for. 
+
 - 🔭 I’m currently working on ...
     > My capstone project for Flat Iron! A small resource app for D&D Dungeon Masters.
 - 🌱 I’m currently learning ...
@@ -13,4 +15,7 @@
     > She/Her/They/Them
 - ⚡ Fun facts: 
     >I would rather be in SPACE; My favorite movie is 'Lo'; I love to make art, learn new things, and discover more about the world around me. 
+
+
+<img height="20"src="https://github.com/mesmith454/mesmith454/files/6618060/react.pdf">
 
