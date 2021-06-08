@@ -17,7 +17,8 @@ My name is Megan Smith and I am a junior software developer! After five years wo
     >I would rather be in SPACE; My favorite movie is 'Lo'; I love to make art, learn new things, and discover more about the world around me. 
 
 
+[React Logo](https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png)
 
-[react.pdf](https://github.com/mesmith454/mesmith454/files/6618080/react.pdf)
+
 
 
