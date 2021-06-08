@@ -17,5 +17,7 @@ My name is Megan Smith and I am a junior software developer! After five years wo
     >I would rather be in SPACE; My favorite movie is 'Lo'; I love to make art, learn new things, and discover more about the world around me. 
 
 
-<img height="20"src="https://github.com/mesmith454/mesmith454/files/6618060/react.pdf">
+
+[react.pdf](https://github.com/mesmith454/mesmith454/files/6618080/react.pdf)
+
 
