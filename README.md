@@ -7,9 +7,9 @@ My name is Megan Smith and I am a junior software developer! After five years wo
 
 
 - 🔭 I’m currently working on ...
-    > My capstone project for Flat Iron! A small resource app for D&D Dungeon Masters.
+    > A practice site for me to build my coding skills
 - 🌱 I’m currently learning ...
-    > React Native, Firebase, any interesting tidbit that catches my eye
+    > Reviewing basics and any other interesting tidbit that catches my eye
 - 👯 I’m looking to collaborate on ...
     > Anything! Give me all the learning opportunities!
 - 😄 Pronouns: 
