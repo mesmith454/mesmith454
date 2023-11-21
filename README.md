@@ -7,13 +7,13 @@ My name is Megan Smith and I am a junior software developer! After five years wo
 
 
 - 🔭 I’m currently working on ...
-    > A practice site for me to build my coding skills
+    > Solidifying my understanding of programming concepts through the Odin Project and Exercism. Both have been fantastic resources!
 - 🌱 I’m currently learning ...
-    > Reviewing basics and any other interesting tidbit that catches my eye
+    > Reviewing Ruby
 - 👯 I’m looking to collaborate on ...
     > Anything! Give me all the learning opportunities!
 - 😄 Pronouns: 
-    > She/Her/They/Them
+    > She/Her
 - ⚡ Fun facts: 
     >I would rather be in SPACE; My favorite movie is 'Lo'; I love to make art, learn new things, and discover more about the world around me. 
 
