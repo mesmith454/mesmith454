@@ -1,7 +1,7 @@
 
 ### Hey There! 👋
 
-My name is Megan Smith and I am a junior software developer! After five years working in the optical industry, I took the opportunity during quarantine to pursue a shift to my dream career. My philosophy is that good energy brings good things and every good thing is worth busting toucas for. 
+My name is Megan Mata! After five years working in the optical industry, I took the opportunity during quarantine to pursue a shift to my dream career. It's been a journey, but learning never ends!
 
 
 - 🔭 I’m currently working on ...
